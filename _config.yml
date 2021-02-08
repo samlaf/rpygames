@@ -1,8 +1,8 @@
 # Site settings
-title: AI-nesthesia
-email: info@ainesthesia.com
-url: https://ainesthesia.ca
-description: "Making Automated Anesthesia a Reality in Canada."
+title: RPY games
+email: samlaf92@gmail.com
+url: https://samlaf.github.io/rpygames
+description: "Creating the next drone-gaming platform."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: AInesthesia
+footer: RPY games
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
