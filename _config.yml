@@ -1,0 +1,22 @@
+# Site settings
+title: AI-nesthesia
+email: info@ainesthesia.com
+url: https://ainesthesia.ca
+description: "Making Automated Anesthesia a Reality in Canada."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: AInesthesia
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: linkedin
+#     url: https://www.linkedin.com/in/samuel-laferriere-01037b156/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
